@@ -1,0 +1,8 @@
+.postSnapshot {
+  width: 700px;
+  height: 100px;
+  margin: 40px 0 0 0;
+  border: 3px solid #FEEBA7;
+  border-radius: 10px;
+  display: block;
+}
